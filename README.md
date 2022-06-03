@@ -1,7 +1,13 @@
-### Hi there 👋
+### A collection of selected data science projects to demonstrate skill sets, knowledge, and what I find interesting
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jerichocruz&show_icons=true&theme=merko" />
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <!--
 **JerichoCruz/JerichoCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerichocruz&layout=compact" />
 
 Here are some ideas to get you started:
 
