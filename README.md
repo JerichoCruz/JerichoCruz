@@ -1,6 +1,6 @@
-<p align="center"><a href="#"><img width="50%" height="auto" src="https://miro.medium.com/max/1400/1*Ra02AqsQlC0KV229EvM98g.png"/></a></p>
+<p align="center"><a href="#"><img width="70%" height="auto" src="https://miro.medium.com/max/1400/1*Ra02AqsQlC0KV229EvM98g.png"/></a></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jericho</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">, I'm Jericho</h1>
 <h3 align="center">I'm a Data Analyst. Here is my collection of selected data science projects to demonstrate skill sets, knowledge, and what I find interesting</h3>
 
 
