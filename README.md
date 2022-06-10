@@ -1,22 +1,68 @@
-### A collection of selected data science projects to demonstrate skill sets, knowledge, and what I find interesting
+<p align="center"><a href="#"><img width="50%" height="auto" src="https://miro.medium.com/max/1400/1*Ra02AqsQlC0KV229EvM98g.png"/></a></p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jerichocruz&show_icons=true&theme=merko" />
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jericho</h1>
+<h3 align="center">I'm a Data Analyst. Here is my collection of selected data science projects to demonstrate skill sets, knowledge, and what I find interesting</h3>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<!--
-**JerichoCruz/JerichoCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ About Me
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerichocruz&layout=compact" />
+- 🔭 I’m currently working on **[Continuous Diagnostic and Mitigation (CDM) Program](https://www.cisa.gov/cdm)** for a Federal agency.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Data Engineering on Microsoft Azure**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 📫 How to reach me -  **info@jerichocruz.com**
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://jupyter.org/" target="_blank"> <img src="https://img.icons8.com/fluency/344/jupyter.png" alt="jupyter" width="48" height="48"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://img.icons8.com/color/344/power-bi.png" alt="powerbi" width="48" height="48"/> </a> 
+    <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/344/tableau-software.png" alt="tableau" width="48" height="48"/> </a> 
+    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/344/amazon-web-services.png" alt="aws" width="48" height="48"/> </a> 
+    <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://img.icons8.com/color/344/azure-1.png" alt="azure" width="48" height="48"/> </a> 
+</p>
+
+
+
+## 📊 My Github Stats
+
+  <br/>
+<p align="left">
+    <a href="https://github.com/JerichoCruz/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jericho Cruz's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JerichoCruz&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+  <br/>
+    <!-- <a href="https://github.com/JerichoCruz/github-readme-stats"><img alt="Jericho Cruz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JerichoCruz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+  <a href="https://github.com/JerichoCruz/github-readme-stats"><img alt="Jericho Cruz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerichoCruz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/JerichoCruz/github-readme-activity-graph"><img alt="Jericho Cruz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JerichoCruz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/JerichoCruz"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/JerichoCruz/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=JerichoCruz">
+</a>
+<a href="https://github.com/JerichoCruz?tab=followers"><img src="https://img.shields.io/github/followers/JerichoCruz?label=Followers&style=social" alt="GitHub Badge"></a>
