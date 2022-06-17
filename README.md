@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="70%" height="auto" src="https://miro.medium.com/max/1400/1*Ra02AqsQlC0KV229EvM98g.png"/></a></p>
+<p align="center"><a href="#"><img width="70%" height="auto" src="https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"/></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">, I'm Jericho</h1>
 <h3 align="center">I'm a Data Analyst.</h3>
