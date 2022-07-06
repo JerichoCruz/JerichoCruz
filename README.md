@@ -1,5 +1,3 @@
-<p align="center"><a href="#"><img width="70%" height="auto" src="https://miro.medium.com/max/1400/1*Ra02AqsQlC0KV229EvM98g.png"/></a></p>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">, I'm Jericho</h1>
 <h3 align="center">I'm a Data Analyst.</h3>
 <h3 align="center">Here is my collection of selected data science projects to demonstrate skill sets, knowledge, and what I find interesting.</h3>
@@ -11,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Engineering on Microsoft Azure**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👨🏻‍💻 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me -  **info@jerichocruz.com**
 
