@@ -1,33 +1,32 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">, I'm Jericho</h1>
-<h3 align="center">I'm a Data Analyst.</h3>
 <h3 align="center">Here is my collection of selected data science projects to demonstrate skill sets, knowledge, and what I find interesting.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Continuous Diagnostic and Mitigation (CDM) Program](https://www.cisa.gov/cdm)** for a Federal agency, with a focus on streamlining **[Federal Information Security Modernization Act (FISMA)](https://www.cisa.gov/federal-information-security-modernization-act)** reporting.
+- 🔭 I’m a **Data Engineer, Business Intelligence Analyst** and **Part-Time Game Developer**
 
-- 🌱 I’m currently learning **Data Engineering on Microsoft Azure**
-
-- 👨🏻‍💻 I’m looking to collaborate on **OpenSource Projects**
+- 🌱 I’m currently learning **Game Development using Unreal Engine**
 
 - 📫 How to reach me -  **info@jerichocruz.com**
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://jupyter.org/" target="_blank"> <img src="https://img.icons8.com/fluency/344/jupyter.png" alt="jupyter" width="48" height="48"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://img.icons8.com/color/344/power-bi.png" alt="powerbi" width="48" height="48"/> </a> 
-    <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/344/tableau-software.png" alt="tableau" width="48" height="48"/> </a> 
-    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/344/amazon-web-services.png" alt="aws" width="48" height="48"/> </a> 
-    <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://img.icons8.com/color/344/azure-1.png" alt="azure" width="48" height="48"/> </a> 
+    <img src="https://img.icons8.com/fluency/344/jupyter.png" alt="jupyter" width="48" height="48"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png"/>
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java" width="48" height="48" />
+    <img src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" alt="c sharp" width="48" height="48">
+    <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="html" width="48" height="48" />
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css" width="48" height="48" />
+    <img src="https://cdn1.iconfinder.com/data/icons/hawcons/32/700048-icon-89-document-file-sql-512.png" alt="mysql" width="48" height="48" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>  
+    <img src="https://img.icons8.com/color/48/000000/git.png"/>
+    <img src="https://img.icons8.com/color/344/power-bi.png" alt="powerbi" width="48" height="48"/>
+    <img src="https://img.icons8.com/color/344/tableau-software.png" alt="tableau" width="48" height="48"/>
+    <img src="https://img.icons8.com/color/344/amazon-web-services.png" alt="aws" width="48" height="48"/>
+    <img src="https://img.icons8.com/color/344/azure-1.png" alt="azure" width="48" height="48"/>
 </p>
-
-
 
 ## 📊 My Github Stats
 
