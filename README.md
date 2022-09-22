@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m a **Data Engineer, Data Analyst, and Business Intelligence Manager
+- 🔭 I’m a **Data Engineer, Data Analyst, and Business Intelligence Manager**
 
 - 🌱 I’m currently learning **Game Development using Unreal Engine**
 
