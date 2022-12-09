@@ -4,9 +4,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m a **Data Engineer, Data Analyst, and Business Intelligence Developer**
+-  I’m a **Data Engineer, Data Analyst, and Business Intelligence Developer**
 
-- 📫 How to reach me -  **info@jerichocruz.com**
+- Interests - Data, privacy, and securing the internet
+
+-  How to reach me -  **info@jerichocruz.com**
 
 ## 🚀 Languages and Tools:
 
@@ -18,12 +20,16 @@
     <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="html" width="48" height="48" />
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css" width="48" height="48" />
     <img src="https://cdn1.iconfinder.com/data/icons/hawcons/32/700048-icon-89-document-file-sql-512.png" alt="mysql" width="48" height="48" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="postgresql" width="48" height="48"/>    
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>  
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
     <img src="https://img.icons8.com/color/344/power-bi.png" alt="powerbi" width="48" height="48"/>
     <img src="https://img.icons8.com/color/344/tableau-software.png" alt="tableau" width="48" height="48"/>
     <img src="https://img.icons8.com/color/344/amazon-web-services.png" alt="aws" width="48" height="48"/>
     <img src="https://img.icons8.com/color/344/azure-1.png" alt="azure" width="48" height="48"/>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" alt="google big query" width="48" height="48"/><img src="https://companieslogo.com/img/orig/SNOW-35164165.png" alt="snowflake" width="48" height="48"/><img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="docker" width="48" height="48"/><img src="https://user-images.githubusercontent.com/31406378/108641411-f9374f00-7496-11eb-82a7-0fa2a9cc5f93.png" alt="terraform" width="48" height="48"/>
+    
+    
 </p>
 
 ## 📊 My Github Stats
@@ -39,13 +45,7 @@
     <!-- <a href="https://github.com/JerichoCruz/github-readme-stats"><img alt="Jericho Cruz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JerichoCruz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
   <a href="https://github.com/JerichoCruz/github-readme-stats"><img alt="Jericho Cruz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerichoCruz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/JerichoCruz/github-readme-activity-graph"><img alt="Jericho Cruz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JerichoCruz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <b>Note:</b> Top languages are only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
