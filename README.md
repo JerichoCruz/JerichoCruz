@@ -13,18 +13,20 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <img src="https://img.icons8.com/fluency/344/jupyter.png" alt="jupyter" width="48" height="48"/>
-    <img src="https://img.icons8.com/color/48/000000/python.png"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png"alt="python" width="48" height="48"/>
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java" width="48" height="48" />
     <img src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" alt="c sharp" width="48" height="48">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/240px-Bash_Logo_Colored.svg.png" alt="bash" width="48" height="48">
+    <img src="https://www.clipartmax.com/png/full/112-1126712_microsoft-powershell-microsoft-powershell-logo-png.png" alt="powershell" width="48" height="48">
     <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="html" width="48" height="48" />
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css" width="48" height="48" />
-    <img src="https://cdn1.iconfinder.com/data/icons/hawcons/32/700048-icon-89-document-file-sql-512.png" alt="mysql" width="48" height="48" />
+    <br/>
+    <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="48" height="48" />
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="postgresql" width="48" height="48"/>    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>  
-    <img src="https://img.icons8.com/color/48/000000/git.png"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png"alt="git" width="48" height="48"/>
     <img src="https://img.icons8.com/color/344/power-bi.png" alt="powerbi" width="48" height="48"/>
     <img src="https://img.icons8.com/color/344/tableau-software.png" alt="tableau" width="48" height="48"/>
+    <br/>
     <img src="https://img.icons8.com/color/344/amazon-web-services.png" alt="aws" width="48" height="48"/>
     <img src="https://img.icons8.com/color/344/azure-1.png" alt="azure" width="48" height="48"/>
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" alt="google big query" width="48" height="48"/><img src="https://companieslogo.com/img/orig/SNOW-35164165.png" alt="snowflake" width="48" height="48"/><img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="docker" width="48" height="48"/><img src="https://user-images.githubusercontent.com/31406378/108641411-f9374f00-7496-11eb-82a7-0fa2a9cc5f93.png" alt="terraform" width="48" height="48"/>
