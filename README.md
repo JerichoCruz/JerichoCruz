@@ -1,12 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">, I'm Jericho</h1>
-<h3 align="center"><a href="https://github.com/JerichoCruz/DataScienceTasks">Here is my collection of selected data science projects</a> to demonstrate skill sets, knowledge, and what I find interesting.</h3>
-
 
 ## 🙋‍♂️ About Me
 
 -  I’m a **Data Engineer, Data Analyst, and Business Intelligence Developer**
 
-- Interests - Data, privacy, and securing the internet
+-  Interests - Data, privacy, and securing the internet
 
 -  How to reach me -  **info@jerichocruz.com**
 
