@@ -19,6 +19,7 @@
     <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="html" width="48" height="48" />
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css" width="48" height="48" />
     <br/>
+    <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_7f0db783d89dc6a16ebb0ba5dd485234/aiven-for-apache-kafka.png" alt="kafka" width="48" height="48" />
     <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="48" height="48" />
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="postgresql" width="48" height="48"/>    
     <img src="https://img.icons8.com/color/48/000000/git.png"alt="git" width="48" height="48"/>
