@@ -2,9 +2,9 @@
 
 ## 🙋‍♂️ About Me
 
--  I’m a **Data Engineer, Data Analyst, and Business Intelligence Developer**
+-  I’m a **Data Engineer, Data Analyst, AI Consultant and Business Intelligence Developer**
 
--  Interests - Data, privacy, and securing the internet
+-  Interests - GenAI, Data, privacy, and securing the internet
 
 -  How to reach me -  **info@jerichocruz.com**
 
