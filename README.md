@@ -13,7 +13,6 @@
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/python.png"alt="python" width="48" height="48"/>
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java" width="48" height="48" />
-    <img src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" alt="c sharp" width="48" height="48">
     <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="html" width="48" height="48" />
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css" width="48" height="48" />
     <br/>
